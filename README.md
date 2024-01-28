@@ -1,3 +1,3 @@
 # Spring-Tutorial-Basic
-### Spring Springboot study and editing branch
+### Spring Springboot study and editing
 Spring core annotations
