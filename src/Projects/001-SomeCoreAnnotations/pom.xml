@@ -10,9 +10,16 @@
 	</parent>
 
 	<groupId>org.csystem</groupId>
+<<<<<<< HEAD
 	<artifactId>SomeCoreAnnotations</artifactId>
 	<version>1.0.0</version>
 	<name>SomeCoreAnnotations</name>
+=======
+	<artifactId>Application</artifactId>
+	<version>1.0.0</version>
+	<name>Application</name>
+	<description>Generic Project</description>
+>>>>>>> origin/main
 
 	<properties>
 		<java.version>17</java.version>
