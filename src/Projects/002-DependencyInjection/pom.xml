@@ -8,7 +8,13 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-
+<<<<<<<<< Temporary merge branch 1
+	<groupId>org.csystem</groupId>
+	<artifactId>Application</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Application</name>
+	<description>Generic Project</description>
+=========
 
 	<groupId>org.csystem</groupId>
 	<artifactId>DependencyInjection</artifactId>
@@ -16,6 +22,7 @@
 	<name>DependencyInjection</name>
 
 
+>>>>>>>>> Temporary merge branch 2
 	<properties>
 		<java.version>17</java.version>
 	</properties>
