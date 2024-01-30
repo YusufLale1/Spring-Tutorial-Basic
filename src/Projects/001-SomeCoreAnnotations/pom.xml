@@ -10,16 +10,10 @@
 	</parent>
 
 	<groupId>org.csystem</groupId>
-<<<<<<<<< Temporary merge branch 1
-	<artifactId>Application</artifactId>
-	<version>1.0.0</version>
-	<name>Application</name>
-	<description>Generic Project</description>
-=========
 	<artifactId>SomeCoreAnnotations</artifactId>
 	<version>1.0.0</version>
 	<name>SomeCoreAnnotations</name>
->>>>>>>>> Temporary merge branch 2
+
 
 	<properties>
 		<java.version>17</java.version>
