@@ -8,11 +8,12 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>org.csystem</groupId>
 	<artifactId>Application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Application</name>
-	<description>Generic Project</description>
+
 	<properties>
 		<java.version>17</java.version>
 	</properties>

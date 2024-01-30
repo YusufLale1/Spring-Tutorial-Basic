@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>org.csystem</groupId>
-	<artifactId>GenericProject</artifactId>
+	<artifactId>DependencyInjection</artifactId>
 	<version>1.0.0</version>
-	<name>GenericProject</name>
+	<name>DependencyInjection</name>
 
 
 	<properties>
